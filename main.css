@@ -1,0 +1,18 @@
+@import url(./base.css);
+body{
+    background-color: bisque;
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+.products img{
+   width: 200px;
+   height: 200px;
+}
+.products h2{
+    font-size: 20px;
+    width: 210px;
+}
